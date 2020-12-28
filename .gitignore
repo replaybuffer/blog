@@ -8,7 +8,10 @@ _site
 *.xml
 vendor
 _notebooks/.ipynb_checkpoints
+.vscode
 # Local Netlify folder
 .netlify
 .tweet-cache
 __pycache__
+# MacOS
+.DS_Store
