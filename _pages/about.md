@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This blog is maintained by [Santhisenan](https://santhisenan.github.io).
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+For stuff related to this blog, send a note to helloreplaybuffer@gmail.com.
