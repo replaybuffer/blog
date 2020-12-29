@@ -6,8 +6,8 @@
 
   
       "page1": {
-          "title": "About Me",
-          "content": "This blog is maintained by Santhisenan. . For stuff related to this blog, send a note to helloreplaybuffer@gmail.com. .",
+          "title": "About",
+          "content": "Welcome to Replay Buffer, a blog on machine learning, computer science and mathematics. . Follow Replay Buffer on Instagram, Facebook, and Twitter. .",
           "url": "https://replaybuffer.com/about/",
           "relUrl": "/about/",
           "date": ""
