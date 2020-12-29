@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This blog is maintained by [Santhisenan](https://santhisenan.github.io).
+Welcome to Replay Buffer, a blog on machine learning, computer science and mathematics.
 
-For stuff related to this blog, send a note to helloreplaybuffer@gmail.com.
+Follow Replay Buffer on [Instagram](https://www.instagram.com/replaybuffer/), [Facebook](https://www.facebook.com/replaybuffer/), and [Twitter](https://twitter.com/ReplayBuffer).
