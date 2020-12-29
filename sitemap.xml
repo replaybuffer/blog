@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://replaybuffer.github.io/blog/about/</loc>
+<loc>https://replaybuffer.com/about/</loc>
 </url>
 <url>
-<loc>https://replaybuffer.github.io/blog/</loc>
+<loc>https://replaybuffer.com/</loc>
 </url>
 <url>
-<loc>https://replaybuffer.github.io/blog/search/</loc>
+<loc>https://replaybuffer.com/search/</loc>
 </url>
 <url>
-<loc>https://replaybuffer.github.io/blog/categories/</loc>
+<loc>https://replaybuffer.com/categories/</loc>
 </url>
 </urlset>

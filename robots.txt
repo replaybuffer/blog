@@ -1,1 +1,1 @@
-Sitemap: https://replaybuffer.github.io/blog/sitemap.xml
+Sitemap: https://replaybuffer.com/sitemap.xml
