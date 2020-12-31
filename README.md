@@ -6,4 +6,6 @@
 
 https://replaybuffer.github.io/blog/
 
+![Replay Buffer Header](images/header.png)
+
 _powered by [fastpages](https://github.com/fastai/fastpages)_
