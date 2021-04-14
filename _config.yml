@@ -41,6 +41,8 @@ minima:
   social_links:
     twitter: ReplayBuffer
     github: replaybuffer
+    facebook: replaybuffer
+    instagram: replaybuffer
 
 # Set this to true to get LaTeX math equation support
 use_math: true
